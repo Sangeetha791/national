@@ -1,0 +1,64 @@
+.main
+        {
+display: flex;
+background-color:black;
+color: aliceblue;
+height: 50px;
+padding-left: 1000px;
+padding-top:30px ;
+        }
+        .main1{
+            background-color: rgb(7, 126, 7);
+            color: aliceblue;
+           
+        }
+       
+        big{
+            position: relative;
+            top:-60px;
+           
+        }
+        .main3{
+            display: flex;
+            background-color:whitesmoke;
+        }
+        .main4{
+       
+            padding-left: 100px;
+            height: 300px;
+            padding-top:50px ;
+        }
+        h1{
+            text-align: center;
+        
+        }
+        p{
+           
+         
+           background-color: yellow;
+           
+            width: 100px;
+        }
+        .main5{
+           background-color: hotpink;
+            padding-left: 100px;
+            height: 550px;
+            padding-top:50px ;  
+        }
+        .main7{
+
+            height: 800px;
+            padding-top: 50px; 
+        }
+        .m{
+            display: flex;
+             padding-top: 50px; 
+              padding-left: 150px;
+        }
+        .s{
+            display: flex;
+        }
+        h4{
+            padding-top: 50px;
+            padding-left: 30px;
+        }
