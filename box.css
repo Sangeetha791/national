@@ -1,0 +1,26 @@
+.main{
+        text-align: center;
+        outline-style:dotted;
+        width: 1000px;
+        height: 500px;
+        margin: 50px 50px 20px 150px;
+        border: 10px solid green;
+    }
+    
+    .main1{
+        text-align: center;
+        
+        width: 800px;
+        height: 300px;
+        margin:25px 25px 50px 100px;
+        border: 10px solid blue;
+    }
+    .main2{
+        text-align: center;
+        width: 500px;
+        height: 100px;
+        margin: 100px;
+        border: 10px solid red; 
+       
+    }
+    
